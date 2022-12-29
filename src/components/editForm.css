@@ -1,0 +1,8 @@
+
+.editForm .row{
+    margin: 1rem;
+}
+
+.has-error{
+    border-color: red;
+}
